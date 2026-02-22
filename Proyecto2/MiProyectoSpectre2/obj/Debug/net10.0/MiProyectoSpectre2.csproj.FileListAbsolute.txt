@@ -1,0 +1,17 @@
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.csproj.AssemblyReference.cache
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.AssemblyInfoInputs.cache
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.AssemblyInfo.cs
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.csproj.CoreCompileInputs.cache
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\MiProyectoSpectre2.exe
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\MiProyectoSpectre2.deps.json
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\MiProyectoSpectre2.runtimeconfig.json
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\MiProyectoSpectre2.dll
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\MiProyectoSpectre2.pdb
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\bin\Debug\net10.0\Spectre.Console.dll
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyec.3DC96FF2.Up2Date
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.dll
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\refint\MiProyectoSpectre2.dll
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.pdb
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\MiProyectoSpectre2.genruntimeconfig.cache
+C:\Users\valde\OneDrive\Desktop\Proyecto2\MiProyectoSpectre2\obj\Debug\net10.0\ref\MiProyectoSpectre2.dll
